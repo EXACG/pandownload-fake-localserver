@@ -9,3 +9,10 @@
 2. 解压
 3. 运行'Pandownload服务离线工具.exe'
 4. 运行'Pandownload.exe'
+
+# 一些问题解决
+问题:登陆后,卡在登录界面
+答:![login_error.png](login_error.png)
+
+问题:无法下载
+答:[备用下载](https://lanzous.com/ibhofcj)
